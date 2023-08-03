@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Other Namelist">
+	<strings>
+		<!-- Replace Other Name -->
+		<LocalizedString identifier="CHIRPXPANEL_DEFAULTROCKETNAME">H-IIAロケット</LocalizedString>
+		<LocalizedString identifier="AIRLINENAME_DEFAULT">日本航空</LocalizedString>
+
+		<!-- Transport Line Name -->
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Tram">路面電車: {0}号線</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Ferry">フェリー: {0}便</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Blimp">飛行船: {0}便</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Monorail">モノレール: {0}号線</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Sightseeing Bus">観光バス: {0}号コース</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Pedestrian">観光ツアー: {0}号コース</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Helicopter">旅客ヘリ: {0}便</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Trolleybus">トロリーバス: {0}号線</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Bus">バス: {0}号線</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Metro">地下鉄: {0}号線</LocalizedString>
+		<LocalizedString identifier="TRANSPORT_LINE_PATTERN" key="Train">鉄道: {0}号線</LocalizedString>
+
+		<!-- Replace Meteor Name -->
+		<LocalizedString identifier="METEOR_TITLE">習志野隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">小牧隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">長良隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">広島隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">富康隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">神戸隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">十和田隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">つくば隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">根上隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">美保関隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">田原隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">国分寺隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">狭山隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">富谷隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">青森隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">芝山隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">岡部隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">笠松隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">玖珂隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">駒込隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">沼貝隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">長井隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">神岡隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">櫛池隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">白岩隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">田根隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">富田隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">神大実隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">坂内隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">羽島隕石</LocalizedString>
+		<LocalizedString identifier="METEOR_TITLE">天童隕石</LocalizedString>
+
+		<!-- Add Citizen Animal Asset -->
+		<LocalizedString identifier="ANIMAL_TITLE" key="2445909604.Akabeko Cow_Data">赤べこ</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="1335402493.Akita Inu (Pet Dog)_Data">秋田犬</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Alaskan Malamute_Data">アラスカン・マラミュート</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Beagle dog_Data">ビーグル犬</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Bernese Mountain Dog_Data">バーニーズ・マウンテンドッグ</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Bulldog dog_Data">ブルドッグ</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Bullterrier dog_Data">ブルテリア</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Dachshund dog_Data">ダックスフント</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Foxterrier dog_Data">フォックステリア</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.German Shephard dog_Data">ジャーマン・シェパード</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Rottweiler dog_Data">ロットワイラー</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Yorkshire Terrier dog_Data">ヨークシャー・テリア</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2964584246.Bald Eagle_Data">白頭鷲</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2569154587.Dalmatian dog_Data">ダルメシアン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2851149754.JP_ROBOT01警備ロボット_Data">警備ロボット</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2074577187.Labrador citizen _Data">ラブラドール・レトリバー</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2386751853.Pigeon_Data">鳩</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2569806964.Pug Dog_Data">パグ</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2842402923.Shiba Inu_Data">柴犬</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="1611363106.Small Dog_Data">小犬</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2722000430.Tiger Pet_Data">虎</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="1310139928.Wolf Pet_Data">狼犬</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2537091788.WelshCorgi_Citizen_Data">ウェルシュ・コーギー</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="3001849580.Wild Pegasus_Data">ペガサス</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="1393503814.GF_Dinergate_Data">ダイナゲート</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2090155514.CIV Hovering AD Drone_Data">ADドローン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2096667638.CIV Mini Spot_Data">ロボドッグ</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2388130105.White Cows_Data">白い牛</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2579077393.Dragon_Data">ドラゴン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2579077393.Dragon1_Data">ドラゴン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2597645258.Unicorn (Bison)_Data">ユニコーン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2597645258.Unicorn (Male Deer)_Data">ユニコーン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2597645258.Unicorn (Reindeer)_Data">ユニコーン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="2597645258.Unicorn (Wolf)_Data">ユニコーン</LocalizedString>
+		<LocalizedString identifier="ANIMAL_TITLE" key="1589784109.dog omg_Data">OMGドッグ</LocalizedString>
+
+	</strings>
+</NameList>

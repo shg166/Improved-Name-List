@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Residence Namelist">
+	<strings>
+		<!-- Custom Residence Low Pattern -->
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level1">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level1">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level1">{0}借家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level1">{0}社宅</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level2">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level2">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level2">{0}借家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level2">{0}社宅</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level3">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level3">{0}家</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level3">{0}社宅</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level3">{0}別荘</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level4">{0}邸</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level4">{0}邸</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level4">{0}屋敷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level4">{0}別荘</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level5">{0}邸宅</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level5">{0}屋敷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level5">{0}豪邸</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_LOW_PATTERN" key="Level5">{0}別荘</LocalizedString>
+
+		<!-- Custom Residence High Pattern -->
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">{0}館</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">{0}荘</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">{0}寮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">{0}下宿舎</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">{0}社員寮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">シェアハウス{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">下宿舎{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">共同住宅{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">寄宿舎{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level1">社員寮{0}</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}アパート</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}メゾン</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}ハイム</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}社員寮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}団地</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">コート{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">アパート{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">メゾン{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">コーポ{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">社員寮{0}</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}ハイツ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}マンション</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}ハイム</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}団地</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}コート</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">コーポ{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">シャトー{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">コート{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">テラス{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">シティハウス{0}</LocalizedString>
+
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">{0}オープンレジデンス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">{0}レジデンス</LocalizedString>		
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">{0}パークマンション</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">{0}マンション</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">{0}ヒルズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">シティタワー{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">グランドメゾン{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level4">シティハウス{0}</LocalizedString>
+		
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">{0}グランドタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">{0}グランタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">{0}ヒルズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">{0}パークハウス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドレジデンス{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドパレス{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドハイツ{0}</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">レジデンシャルタワー{0}</LocalizedString>
+
+		<!-- Custom Residence Names -->
+		<LocalizedString identifier="RESIDENCE_NAME">府中</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">那珂川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">東浦</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">寒川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">阿見</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">粕屋</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">志免</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">杉戸</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">伊奈</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">音更</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">熊取</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">東郷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">長泉</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">武豊</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">長与</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大泉</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">菊陽</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">幸田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">菰野</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">愛川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">壬生</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">柴田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">三芳</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">南風原</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">宇美</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">函南</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">蟹江</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">津幡</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">毛呂山</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">玉村</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">精華</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">苅田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">利府</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">藍住</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">西原</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">宮代</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">扶桑</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大津</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">播磨</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">太子</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">広陵</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">寄居</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">亘理</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">瑞穂</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">茨城</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">益城</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">紫波</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">清水</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">葉山</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大治</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">新宮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大磯</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">田原本</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">岡垣</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">篠栗</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">上三川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">稲美</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">猪名川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">上里</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">小川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">松前</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">八重瀬</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">島本</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">時津</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">松伏</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">高根沢</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">筑前</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">海田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">吉田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大和</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">水巻</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">北谷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">阿久比</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">七飯</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">日出</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">二宮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">養老</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">矢巾</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">須恵</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">三木</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">垂井</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">斑鳩</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">内灘</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">幕別</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">邑楽</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">有田川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">立山</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">三股</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">東員</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">石井</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">富士河口湖</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">野木</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">みやき</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">岐南</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">箕輪</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">入善</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">湯河原</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">美里</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">那須</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">おいらせ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">境</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">池田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大口</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大河原</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">三郷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">中標津</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">熊野</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">王寺</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">綾川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">千代田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">中央</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">港</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">新宿</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">文京</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">台東</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">墨田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">江東</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">品川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">目黒</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">大田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">世田谷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">渋谷</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">中野</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">杉並</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">豊島</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">荒川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">板橋</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">練馬</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">足立</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">葛飾</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_NAME">江戸川</LocalizedString>
+
+		<!-- Custom Residence Name -->
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">六本木ヒルズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">虎ノ門ヒルズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">北浜タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">西新宿タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ミッドスカイタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">クロスタワー大阪ベイ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ザ・タワー横浜北仲</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワー広島</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ザ・トーキョー・タワーズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ザ・パークハウス中之島タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">勝どきビュータワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">梅田ガーデン</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">富久クロス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">アクティ汐留</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワー神戸三宮</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ザ・サンクタスタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">エアライズタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">アウルタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">としまエコミューゼタウン</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">エルザタワー55</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワー武蔵小杉</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シエリアタワー千里中央</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ブランズタワー豊洲</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">センチュリーパークタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークシティ豊洲</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークシティ武蔵小杉</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">勝どき ザ・タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークタワー晴海</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">Wコンフォートタワーズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドメゾン新梅田タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ザ・タワー・オオサカ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワー西梅田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">プラウドタワー東雲</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランフロント大阪</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークアクシス青山一丁目タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワー大阪本町</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">御影タワーレジデンス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">西新宿タワー60</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">武蔵小杉ミッドスカイタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ワールドシティタワーズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">西武小手指ハイツ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">クレストプライムレジデンス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">サンシティ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">レイディアントシティ横濱</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークシティ新川崎</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シーアイハイツ和光</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワーズ東京ベイ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">プラウド船橋</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ユトリシア</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークフィールドみさと</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">東京フロンティアシティ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ブリリア多摩ニュータウン</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ブリリアシティ横浜磯子</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">広尾ガーデンヒルズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">サンマークスだいにち</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">スカイズタワー＆ガーデン</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">アイムふじみ野タワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークシティ溝の口</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">富久クロス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ブリリア有明スカイタワー</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">大崎ウエストシティタワーズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">リエトコート武蔵小杉</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">パークシティさいたま北</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ベイマークスクエア</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティタワーズ豊洲</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ガーデンプラザ新検見川</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">東京テラス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">二子玉川ライズタワー＆レジデンス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">東京ツインパークス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">タイムズピーススクエア</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">サウザンドシティ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シーアイハイツ町田</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ニュートンプレイス</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">東京フロントコート</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ブリリアタワーズ目黒</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">ニューシティ東戸塚</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">コットンハーバータワーズ</LocalizedString>
+		<LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">シティテラス小金井公園</LocalizedString>
+
+	</strings>
+</NameList>

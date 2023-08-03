@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Office Namelist">
+	<strings>
+		<!-- Office Names -->
+		<LocalizedString identifier="OFFICE_NAME" key="Level1">JTB</LocalizedString>
+		<LocalizedString identifier="OFFICE_NAME" key="Level1">セコム</LocalizedString>
+
+		<LocalizedString identifier="OFFICE_NAME" key="Level2">かんぽ生命保険</LocalizedString>
+		<LocalizedString identifier="OFFICE_NAME" key="Level2">新生銀行</LocalizedString>
+
+		<LocalizedString identifier="OFFICE_NAME" key="Level3">丸紅</LocalizedString>
+		<LocalizedString identifier="OFFICE_NAME" key="Level3">三菱商事</LocalizedString>
+		<LocalizedString identifier="OFFICE_NAME" key="Level3">豊田通商</LocalizedString>
+
+	</strings>
+</NameList>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Industry Namelist">
+	<strings>
+		<!-- Generic Industry Names -->
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="Level1">オリンパス</LocalizedString>
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="Level2">三菱重工業</LocalizedString>
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="Level3">日立製作所</LocalizedString>
+
+		<!-- Specialized Industry Extractor Names -->
+		<LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialFarming">ホクト</LocalizedString>
+		<LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialForestry">住友林業</LocalizedString>
+		<LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialOil">昭和シェル</LocalizedString>
+		<LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialOre">三井物産</LocalizedString>
+
+		<!-- Specialized Industry Processing Names -->
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialFarming">ホウスイ</LocalizedString>
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialForestry">タマホーム</LocalizedString>
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialOil">国際石開帝石</LocalizedString>
+		<LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialOre">日鉄鉱業</LocalizedString>
+
+	</strings>
+</NameList>

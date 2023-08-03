@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Soccer Namelist">
+	<strings>
+		<!-- Free DLC Match Day Pattern -->
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">北海道コンサドーレ札幌</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">鹿島アントラーズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">浦和レッズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">柏レイソル</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">FC東京</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">川崎フロンターレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">横浜F・マリノス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">横浜FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">湘南ベルマーレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">アルビレックス新潟</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">名古屋グランパス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">京都サンガF.C.</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ガンバ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">セレッソ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ヴィッセル神戸</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">サンフレッチェ広島</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">アビスパ福岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">サガン鳥栖</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ベガルタ仙台</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ブラウブリッツ秋田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">モンテディオ山形</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">いわきFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">水戸ホーリーホック</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">栃木SC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ザスパクサツ群馬</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">大宮アルディージャ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ジェフユナイテッド千葉</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">東京ヴェルディ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">FC町田ゼルビア</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ヴァンフォーレ甲府</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ツエーゲン金沢</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">清水エスパルス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ジュビロ磐田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">藤枝MYFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ファジアーノ岡山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">レノファ山口FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">徳島ヴォルティス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">V・ファーレン長崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ロアッソ熊本</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">大分トリニータ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ヴァンラーレ八戸FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">いわてグルージャ盛岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">福島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">Y.S.C.C.横浜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">SC相模原</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">松本山雅FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">AC長野パルセイロ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">カターレ富山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">アスルクラロ沼津</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">FC岐阜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ガイナーレ鳥取</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">カマタマーレ讃岐</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">愛媛FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">FC今治</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">ギラヴァンツ北九州</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">テゲバジャーロ宮崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">鹿児島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Football Match">FC琉球</LocalizedString>
+
+		<!-- Soccer DLC Juventus Pattern -->
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">北海道コンサドーレ札幌</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">鹿島アントラーズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">浦和レッズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">柏レイソル</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">FC東京</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">川崎フロンターレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">横浜F・マリノス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">横浜FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">湘南ベルマーレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">アルビレックス新潟</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">名古屋グランパス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">京都サンガF.C.</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ガンバ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">セレッソ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ヴィッセル神戸</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">サンフレッチェ広島</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">アビスパ福岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">サガン鳥栖</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ベガルタ仙台</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ブラウブリッツ秋田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">モンテディオ山形</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">いわきFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">水戸ホーリーホック</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">栃木SC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ザスパクサツ群馬</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">大宮アルディージャ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ジェフユナイテッド千葉</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">東京ヴェルディ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">FC町田ゼルビア</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ヴァンフォーレ甲府</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ツエーゲン金沢</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">清水エスパルス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ジュビロ磐田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">藤枝MYFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ファジアーノ岡山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">レノファ山口FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">徳島ヴォルティス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">V・ファーレン長崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ロアッソ熊本</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">大分トリニータ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ヴァンラーレ八戸FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">いわてグルージャ盛岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">福島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">Y.S.C.C.横浜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">SC相模原</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">松本山雅FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">AC長野パルセイロ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">カターレ富山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">アスルクラロ沼津</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">FC岐阜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ガイナーレ鳥取</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">カマタマーレ讃岐</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">愛媛FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">FC今治</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">ギラヴァンツ北九州</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">テゲバジャーロ宮崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">鹿児島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Juventus">FC琉球</LocalizedString>
+
+		<!-- Soccer DLC Chelsea Pattern -->
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">北海道コンサドーレ札幌</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">鹿島アントラーズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">浦和レッズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">柏レイソル</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">FC東京</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">川崎フロンターレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">横浜F・マリノス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">横浜FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">湘南ベルマーレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">アルビレックス新潟</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">名古屋グランパス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">京都サンガF.C.</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ガンバ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">セレッソ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ヴィッセル神戸</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">サンフレッチェ広島</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">アビスパ福岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">サガン鳥栖</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ベガルタ仙台</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ブラウブリッツ秋田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">モンテディオ山形</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">いわきFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">水戸ホーリーホック</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">栃木SC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ザスパクサツ群馬</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">大宮アルディージャ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ジェフユナイテッド千葉</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">東京ヴェルディ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">FC町田ゼルビア</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ヴァンフォーレ甲府</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ツエーゲン金沢</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">清水エスパルス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ジュビロ磐田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">藤枝MYFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ファジアーノ岡山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">レノファ山口FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">徳島ヴォルティス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">V・ファーレン長崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ロアッソ熊本</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">大分トリニータ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ヴァンラーレ八戸FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">いわてグルージャ盛岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">福島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">Y.S.C.C.横浜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">SC相模原</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">松本山雅FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">AC長野パルセイロ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">カターレ富山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">アスルクラロ沼津</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">FC岐阜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ガイナーレ鳥取</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">カマタマーレ讃岐</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">愛媛FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">FC今治</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">ギラヴァンツ北九州</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">テゲバジャーロ宮崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">鹿児島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Chelsea">FC琉球</LocalizedString>
+
+		<!-- Soccer DLC Barcelona Pattern -->
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">北海道コンサドーレ札幌</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">鹿島アントラーズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">浦和レッズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">柏レイソル</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">FC東京</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">川崎フロンターレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">横浜F・マリノス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">横浜FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">湘南ベルマーレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">アルビレックス新潟</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">名古屋グランパス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">京都サンガF.C.</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ガンバ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">セレッソ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ヴィッセル神戸</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">サンフレッチェ広島</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">アビスパ福岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">サガン鳥栖</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ベガルタ仙台</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ブラウブリッツ秋田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">モンテディオ山形</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">いわきFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">水戸ホーリーホック</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">栃木SC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ザスパクサツ群馬</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">大宮アルディージャ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ジェフユナイテッド千葉</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">東京ヴェルディ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">FC町田ゼルビア</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ヴァンフォーレ甲府</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ツエーゲン金沢</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">清水エスパルス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ジュビロ磐田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">藤枝MYFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ファジアーノ岡山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">レノファ山口FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">徳島ヴォルティス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">V・ファーレン長崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ロアッソ熊本</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">大分トリニータ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ヴァンラーレ八戸FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">いわてグルージャ盛岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">福島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">Y.S.C.C.横浜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">SC相模原</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">松本山雅FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">AC長野パルセイロ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">カターレ富山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">アスルクラロ沼津</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">FC岐阜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ガイナーレ鳥取</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">カマタマーレ讃岐</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">愛媛FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">FC今治</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">ギラヴァンツ北九州</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">テゲバジャーロ宮崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">鹿児島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="Barcelona">FC琉球</LocalizedString>
+
+		<!-- Soccer DLC SaintGermain Pattern -->
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">北海道コンサドーレ札幌</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">鹿島アントラーズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">浦和レッズ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">柏レイソル</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">FC東京</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">川崎フロンターレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">横浜F・マリノス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">横浜FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">湘南ベルマーレ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">アルビレックス新潟</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">名古屋グランパス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">京都サンガF.C.</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ガンバ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">セレッソ大阪</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ヴィッセル神戸</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">サンフレッチェ広島</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">アビスパ福岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">サガン鳥栖</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ベガルタ仙台</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ブラウブリッツ秋田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">モンテディオ山形</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">いわきFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">水戸ホーリーホック</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">栃木SC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ザスパクサツ群馬</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">大宮アルディージャ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ジェフユナイテッド千葉</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">東京ヴェルディ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">FC町田ゼルビア</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ヴァンフォーレ甲府</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ツエーゲン金沢</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">清水エスパルス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ジュビロ磐田</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">藤枝MYFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ファジアーノ岡山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">レノファ山口FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">徳島ヴォルティス</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">V・ファーレン長崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ロアッソ熊本</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">大分トリニータ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ヴァンラーレ八戸FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">いわてグルージャ盛岡</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">福島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">Y.S.C.C.横浜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">SC相模原</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">松本山雅FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">AC長野パルセイロ</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">カターレ富山</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">アスルクラロ沼津</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">FC岐阜</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ガイナーレ鳥取</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">カマタマーレ讃岐</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">愛媛FC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">FC今治</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">ギラヴァンツ北九州</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">テゲバジャーロ宮崎</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">鹿児島ユナイテッドFC</LocalizedString>
+		<LocalizedString identifier="SPORT_OPPONENT_NAME" key="SaintGermain">FC琉球</LocalizedString>
+
+	</strings>
+</NameList>

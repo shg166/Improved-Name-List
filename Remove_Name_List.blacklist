@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<BlackList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Remove_Locale_Strings">
+	<strings>
+		<!-- Remove Default Name -->
+		<LocalizedStringKey identifier="CHIRPXPANEL_DEFAULTROCKETNAME" />
+		<LocalizedStringKey identifier="AIRLINENAME_DEFAULT" />
+
+		<!-- Remove Meteor Name -->
+		<LocalizedStringKey identifier="METEOR_TITLE" />
+
+		<!-- Remove Soccer Opponent Name -->
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Football Match" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Juventus" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Chelsea" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Barcelona" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="SaintGermain" />
+
+		<!-- Remove Airport Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Airport" />
+
+		<!-- Remove Industrial Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Industry" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Farming" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Forestry" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Ore" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Oil" />
+
+		<!-- Remove Park Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="AmusementPark" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="NatureReserve" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Zoo" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Generic" />
+
+		<!-- Remove Pedstrian Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="PedestrianZone" />
+
+		<!-- Remove Campus Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="TradeSchool" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="LiberalArts" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="University" />
+
+		<!-- Remove Citizen Name -->
+		<LocalizedStringKey identifier="NAME_FEMALE_FIRST" />
+		<LocalizedStringKey identifier="NAME_FEMALE_LAST" />
+		<LocalizedStringKey identifier="NAME_MALE_FIRST" />
+		<LocalizedStringKey identifier="NAME_MALE_LAST" />
+
+		<!-- Remove District Name -->
+		<LocalizedStringKey identifier="DISTRICT_PATTERN" />
+		<LocalizedStringKey identifier="DISTRICT_NAME" />
+
+		<!-- Remove Connections Name -->
+		<LocalizedStringKey identifier="CONNECTIONS_PATTERN" key="America" />
+		<LocalizedStringKey identifier="CONNECTIONS_PATTERN" key="Europe" />
+		<LocalizedStringKey identifier="CONNECTIONS_PATTERN" key="Mideast" />
+		<LocalizedStringKey identifier="CONNECTIONS_PATTERN" key="Spanish" />
+
+		<LocalizedStringKey identifier="CONNECTIONS_NAME" key="America" />
+		<LocalizedStringKey identifier="CONNECTIONS_NAME" key="Europe" />
+		<LocalizedStringKey identifier="CONNECTIONS_NAME" key="Mideast" />
+		<LocalizedStringKey identifier="CONNECTIONS_NAME" key="Spanish" />
+
+		<!-- Transport Line Name Pattern -->
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Tram" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Ferry" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Blimp" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Monorail" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Sightseeing Bus" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Pedestrian" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Helicopter" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Trolleybus" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Bus" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Metro" />
+		<LocalizedStringKey identifier="TRANSPORT_LINE_PATTERN" key="Train" />
+
+		<!-- Residence Name Pattern -->
+		<LocalizedStringKey identifier="RESIDENCE_NAME" />
+
+		<LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN" key="Level1" />
+		<LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN" key="Level2" />
+		<LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN" key="Level3" />
+		<LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN" key="Level4" />
+		<LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN" key="Level5" />
+
+		<LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" key="Level1" />
+		<LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" key="Level2" />
+		<LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" key="Level3" />
+		<LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" key="Level4" />
+		<LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" key="Level5" />
+
+ 	</strings>
+</BlackList>
